@@ -1,5 +1,5 @@
 {
-    "name":        "arcanedev/laravel-messenger",
+    "name":        "mmockelyn/laravel-messenger",
     "description": "Simple messaging system for Laravel",
     "keywords":    [
         "arcanedev", "laravel", "messenger", "message", "conversation", "chat", "discussion"
