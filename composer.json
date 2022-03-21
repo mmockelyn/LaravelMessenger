@@ -11,13 +11,19 @@
             "email":    "arcanedev.maroc@gmail.com",
             "homepage": "https://github.com/arcanedev-maroc",
             "role":     "Developer"
+        },
+        {
+            "name":     "Syltheron",
+            "email":    "syltheron@gmail.com",
+            "homepage": "https://github.com/mmockelyn",
+            "role":     "Developer"
         }
     ],
     "type":    "library",
     "license": "MIT",
     "require": {
         "php":               "^7.2.5",
-        "arcanedev/support": "^7.1"
+        "arcanedev/support": "^9.0"
     },
     "require-dev": {
         "orchestra/testbench": "^5.0",
