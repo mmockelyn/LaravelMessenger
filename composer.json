@@ -22,7 +22,6 @@
     "type":    "library",
     "license": "MIT",
     "require": {
-        "php":               "^7.2.5",
         "arcanedev/support": "^9.0"
     },
     "require-dev": {
